@@ -2,15 +2,18 @@
 
 This repository contains a simple HTML file demonstrating the use of **basic HTML tags** such as headings, paragraphs, lists, line breaks, horizontal rules, and more.  
 
-## Features
-- Heading tags (`<h1>` to `<h6>`)
-- Paragraph tag (`<p>`)
-- Line break tag (`<br>`)
-- Centering text (`<center>`)
-- Horizontal rules (`<hr>`)
-- Preserving formatting (`<pre>`)
-- Non-breaking spaces (`&nbsp;`)
-- Unordered and ordered lists (`<ul>`, `<ol>`, `<li>`)
+## Features & Documentation
+Each feature includes a link to its documentation on [W3Schools](https://www.w3schools.com/html/):
+
+- [Heading tags (`<h1>` to `<h6>`)](https://www.w3schools.com/html/html_headings.asp)
+- [Paragraph tag (`<p>`)](https://www.w3schools.com/html/html_paragraphs.asp)
+- [Line break tag (`<br>`)](https://www.w3schools.com/html/html_paragraphs.asp#br)
+- [Centering text (`<center>`)](https://www.w3schools.com/tags/tag_center.asp) *(deprecated, but still works in many browsers)*
+- [Horizontal rules (`<hr>`)](https://www.w3schools.com/tags/tag_hr.asp)
+- [Preserving formatting (`<pre>`)](https://www.w3schools.com/tags/tag_pre.asp)
+- [Non-breaking spaces (`&nbsp;`)](https://www.w3schools.com/html/html_entities.asp)
+- [Unordered lists (`<ul>`) & List items (`<li>`)](https://www.w3schools.com/html/html_lists.asp)
+- [Ordered lists (`<ol>`) & List items (`<li>`)](https://www.w3schools.com/html/html_lists.asp)
 
 ## Example Code
 ```html
