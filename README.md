@@ -1,6 +1,6 @@
 # HTML_CSS
 
-This repository contains a simple HTML file demonstrating the use of **basic HTML tags** such as headings, paragraphs, lists, line breaks, horizontal rules, and more.  
+![HTML Example Screenshot](image.png)
 
 ## Features & Documentation
 Each feature includes a link to its documentation on [W3Schools](https://www.w3schools.com/html/):
